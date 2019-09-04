@@ -22,5 +22,5 @@ import cv2
 import math
 from sklearn.decomposition import PCA
 from sklearn import datasets
-from sklearn import svm # use SVM method
+from sklearn import svm #  use SVM method
 ```
